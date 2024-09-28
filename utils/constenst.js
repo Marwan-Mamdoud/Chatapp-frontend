@@ -1,4 +1,4 @@
-export const HOST = "http://localhost:2000";
+export const HOST = "https://chatbackend-woad.vercel.app/";
 //========================================================================================//
 //========================================================================================//
 export const API_ROUTES_AUTH = "/api/auth";
